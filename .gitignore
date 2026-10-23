@@ -1,0 +1,14 @@
+# Dataset and generated model
+Housing.csv
+house_price_model.pkl
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
